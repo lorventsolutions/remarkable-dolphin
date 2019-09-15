@@ -5,3 +5,4 @@ thumb_img_path: /images/10.jpg
 layout: post
 ---
 * hey you
+# wow
